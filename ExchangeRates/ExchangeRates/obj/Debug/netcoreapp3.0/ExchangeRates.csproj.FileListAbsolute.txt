@@ -1,0 +1,11 @@
+C:\Users\teemu\source\repos\ExchangeRates\ExchangeRates\bin\Debug\netcoreapp3.0\ExchangeRates.exe
+C:\Users\teemu\source\repos\ExchangeRates\ExchangeRates\bin\Debug\netcoreapp3.0\ExchangeRates.deps.json
+C:\Users\teemu\source\repos\ExchangeRates\ExchangeRates\bin\Debug\netcoreapp3.0\ExchangeRates.runtimeconfig.json
+C:\Users\teemu\source\repos\ExchangeRates\ExchangeRates\bin\Debug\netcoreapp3.0\ExchangeRates.runtimeconfig.dev.json
+C:\Users\teemu\source\repos\ExchangeRates\ExchangeRates\bin\Debug\netcoreapp3.0\ExchangeRates.dll
+C:\Users\teemu\source\repos\ExchangeRates\ExchangeRates\bin\Debug\netcoreapp3.0\ExchangeRates.pdb
+C:\Users\teemu\source\repos\ExchangeRates\ExchangeRates\obj\Debug\netcoreapp3.0\ExchangeRates.csprojAssemblyReference.cache
+C:\Users\teemu\source\repos\ExchangeRates\ExchangeRates\obj\Debug\netcoreapp3.0\ExchangeRates.AssemblyInfoInputs.cache
+C:\Users\teemu\source\repos\ExchangeRates\ExchangeRates\obj\Debug\netcoreapp3.0\ExchangeRates.AssemblyInfo.cs
+C:\Users\teemu\source\repos\ExchangeRates\ExchangeRates\obj\Debug\netcoreapp3.0\ExchangeRates.dll
+C:\Users\teemu\source\repos\ExchangeRates\ExchangeRates\obj\Debug\netcoreapp3.0\ExchangeRates.pdb
